@@ -249,7 +249,7 @@ DSA-with-Python/
 ```
 
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35"/>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
