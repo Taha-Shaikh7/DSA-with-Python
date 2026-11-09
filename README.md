@@ -1,112 +1,159 @@
 
-# 🐍 Data Structures & Algorithms with Python
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-03-purple?style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:090979,50:005C97,100:00D4FF&text=DSA%20WITH%20PYTHON&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Structures%20%7C%20Algorithms%20%7C%20Problem%20Solving&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <b>Building Strong Foundations in Problem Solving, Data Structures & Algorithm Design.</b>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Think+in+Algorithms.;Build+with+Python.;Understand+Data+Structures.;Solve+Problems+Efficiently." alt="Typing SVG"/>
 
-## 📌 About This Repository
+<br/><br/>
 
-Welcome to my **Data Structures & Algorithms with Python** repository!
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-171717?style=for-the-badge&logo=thealgorithms&logoColor=white)]()
+[![Semester](https://img.shields.io/badge/3rd_Semester-7B2CBF?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Learning_In_Progress-00A86B?style=for-the-badge)]()
 
-This repository is a structured collection of my semester-long laboratory assignments, practical implementations, programming exercises, and algorithmic experiments developed as part of my **BS Artificial Intelligence** degree.
+<br/>
 
-The primary objective is to develop a deep understanding of how data structures organize information, how algorithms solve computational problems, and how their efficiency can be evaluated through time and space complexity.
+**A hands-on journey into the world of Data Structures and Algorithms using Python.**
 
-Rather than simply learning theoretical concepts, I focus on implementing them in Python, understanding their internal working mechanisms, and analyzing their performance through practical experimentation.
+<br/>
 
-This repository reflects my continuous learning journey toward becoming a better programmer and future AI Engineer.
+<a href="#-explore-the-world-of-dsa">Explore Topics</a> •
+<a href="#-repository-structure">Repository Structure</a> •
+<a href="#-about-the-developer">About Me</a>
 
----
-
-## 📑 Table of Contents
-
-- [Repository Objectives](#-repository-objectives)
-- [Topics Covered](#-topics-covered)
-- [Technologies & Tools](#-technologies--tools)
-- [Repository Structure](#-repository-structure)
-- [Learning Outcomes](#-learning-outcomes)
-- [Academic Information](#-academic-information)
-- [My Learning Philosophy](#-my-learning-philosophy)
-- [Connect With Me](#-connect-with-me)
+</div>
 
 ---
 
-## 🎯 Repository Objectives
+## ✨ Behind the Code
 
-- Develop a strong foundation in Data Structures and Algorithms.
-- Understand the internal working of fundamental data structures.
-- Implement algorithms using Python from scratch.
-- Explore different searching and sorting techniques.
-- Understand recursion and problem-solving strategies.
-- Analyze algorithm performance using asymptotic notations.
-- Compare algorithms based on time and space complexity.
-- Strengthen logical thinking and computational problem-solving skills.
+Welcome to my **DSA with Python** repository!
+
+This repository represents my semester-long learning journey in **Data Structures and Algorithms**, featuring laboratory assignments, practical implementations, programming exercises, and algorithmic experiments.
+
+As a BS Artificial Intelligence student, I believe that strong programming skills begin with a deep understanding of how data is organized, processed, and optimized.
+
+Here, I focus on implementing concepts using Python, understanding their internal mechanisms, exploring different problem-solving approaches, and analyzing algorithm performance.
+
+**This is more than a collection of lab tasks — it's a record of learning, experimenting, and growing as a developer.**
 
 ---
 
-## 📚 Topics Covered
+## 🚀 Explore the World of DSA
 
-### 01. Arrays
-Understanding linear data organization and fundamental array operations.
+<div align="center">
 
-- Array Creation and Initialization
-- Traversal and Accessing Elements
-- Insertion and Deletion
-- Searching and Updating Elements
-- Array Manipulation and Operations
+### 🧩 Core Data Structures
 
-### 02. Linked Lists
-Exploring dynamic data structures and pointer-based connections.
+</div>
 
-- Introduction to Linked Lists
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Arrays
+Fundamental linear data organization.
+
+- Array traversal
+- Insertion and deletion
+- Searching and updating
+- Array operations
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Linked Lists
+Dynamic memory-based data structures.
+
 - Singly Linked Lists
 - Doubly Linked Lists
 - Circular Linked Lists
-- Node Creation and Traversal
-- Insertion and Deletion Operations
-- Searching and Updating Nodes
+- Node insertion and deletion
 
-### 03. Stacks
-Understanding the LIFO (Last In, First Out) principle.
+</td>
+</tr>
 
-- Stack Implementation Using Python Lists
-- Stack Implementation Using Linked Lists
-- Push and Pop Operations
-- Peek and Display Operations
-- Stack Applications
+<tr>
+<td width="50%" valign="top">
 
-### 04. Queues
-Exploring FIFO (First In, First Out) data organization.
+### 📚 Stacks
+Understanding the LIFO principle.
 
-- Queue Implementation Using Lists
-- Queue Implementation Using Linked Lists
-- Enqueue and Dequeue Operations
-- Circular Queues
-- Priority Queues
-- Double-Ended Queues (Deque)
+- Stack using Lists
+- Stack using Linked Lists
+- Push and Pop
+- Peek and Display
 
-### 05. Searching Algorithms
-Implementing techniques to efficiently locate elements.
+</td>
+<td width="50%" valign="top">
+
+### 🚶 Queues
+Understanding the FIFO principle.
+
+- Queue implementation
+- Circular Queue
+- Priority Queue
+- Deque
+- Enqueue and Dequeue
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌳 Trees
+Exploring hierarchical data structures.
+
+- Binary Trees
+- Binary Search Trees
+- Insertion and deletion
+- Inorder traversal
+- Preorder traversal
+- Postorder traversal
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ Graphs
+Understanding relationships and connections.
+
+- Directed and Undirected Graphs
+- Weighted and Unweighted Graphs
+- Adjacency Matrix
+- Adjacency List
+- Breadth-First Search (BFS)
+- Depth-First Search (DFS)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### ⚡ Algorithmic Techniques
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Searching Algorithms
 
 - Linear Search
 - Binary Search
 - Iterative Binary Search
 - Recursive Binary Search
-- Searching Algorithm Comparison
-- Performance and Complexity Analysis
+- Performance comparison
 
-### 06. Sorting Algorithms
-Exploring different techniques for arranging data efficiently.
+</td>
+<td width="50%" valign="top">
+
+### 🔄 Sorting Algorithms
 
 - Bubble Sort
 - Selection Sort
@@ -117,92 +164,64 @@ Exploring different techniques for arranging data efficiently.
 - Counting Sort
 - Radix Sort
 - Bucket Sort
-- Sorting Algorithm Comparison
 
-### 07. Trees
-Understanding hierarchical data structures and their operations.
+</td>
+</tr>
 
-- Tree Fundamentals and Terminologies
-- Binary Trees
-- Binary Search Trees (BST)
-- Tree Insertion and Deletion
-- Searching in Binary Search Trees
-- Inorder Traversal
-- Preorder Traversal
-- Postorder Traversal
+<tr>
+<td width="50%" valign="top">
 
-### 08. Graphs
-Studying relationships and connections between data elements.
+### 🔁 Recursion
 
-- Graph Fundamentals and Terminologies
-- Directed and Undirected Graphs
-- Weighted and Unweighted Graphs
-- Adjacency Matrix
-- Adjacency List
-- Breadth-First Search (BFS)
-- Depth-First Search (DFS)
+- Recursive functions
+- Base and recursive cases
+- Factorial and Fibonacci
+- Recursive searching
+- Recursive sorting
+- Recursion vs. iteration
 
-### 09. Recursion
-Developing recursive problem-solving techniques.
+</td>
+<td width="50%" valign="top">
 
-- Introduction to Recursion
-- Base Cases and Recursive Cases
-- Recursive Function Implementation
-- Factorial Using Recursion
-- Fibonacci Sequence
-- Recursive Searching
-- Recursive Sorting
-- Recursion vs. Iteration
-- Understanding the Call Stack
+### 📊 Algorithm Analysis
 
-### 10. Algorithm Analysis
-Evaluating algorithm efficiency and computational performance.
-
-- Introduction to Algorithm Analysis
 - Time Complexity
 - Space Complexity
-- Best, Average, and Worst Cases
-- Big O Notation — O(n)
-- Big Omega Notation — Ω(n)
-- Big Theta Notation — Θ(n)
-- Complexity Analysis of Searching Algorithms
-- Complexity Analysis of Sorting Algorithms
-- Algorithm Performance Comparison
+- Best, Average and Worst Cases
+- Big O — O(n)
+- Big Omega — Ω(n)
+- Big Theta — Θ(n)
+- Algorithm comparisons
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🗂️ Repository Structure
 
-| Technology | Purpose |
-|---|---|
-| Python | Core programming language |
-| Visual Studio Code | Code development |
-| Jupyter Notebook | Practical experimentation |
-| Git | Version control |
-| GitHub | Project hosting and documentation |
-| NumPy / Pandas | Data handling where required |
-
----
-
-## 📂 Repository Structure
+Organized for easy navigation, understanding, and future expansion.
 
 ```text
 DSA-with-Python/
 │
-├── Arrays/
-├── Linked-Lists/
+├── 📁 Arrays/
+│
+├── 📁 Linked-Lists/
 │   ├── Singly-Linked-List/
 │   ├── Doubly-Linked-List/
 │   └── Circular-Linked-List/
 │
-├── Stacks/
-├── Queues/
+├── 📁 Stacks/
 │
-├── Searching-Algorithms/
+├── 📁 Queues/
+│
+├── 📁 Searching-Algorithms/
 │   ├── Linear-Search/
 │   └── Binary-Search/
 │
-├── Sorting-Algorithms/
+├── 📁 Sorting-Algorithms/
 │   ├── Bubble-Sort/
 │   ├── Selection-Sort/
 │   ├── Insertion-Sort/
@@ -213,78 +232,140 @@ DSA-with-Python/
 │   ├── Radix-Sort/
 │   └── Bucket-Sort/
 │
-├── Trees/
-├── Graphs/
-├── Recursion/
-├── Algorithm-Analysis/
+├── 📁 Trees/
 │
-└── README.md
+├── 📁 Graphs/
+│
+├── 📁 Recursion/
+│
+├── 📁 Algorithm-Analysis/
+│
+└── 📄 README.md
 ```
 
-*The structure will evolve as additional laboratory tasks and practical implementations are completed.*
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| Technology | Purpose |
+|:---:|:---|
+| <img src="https://skillicons.dev/icons?i=python" width="35"/> **Python** | Core programming language |
+| <img src="https://skillicons.dev/icons?i=vscode" width="35"/> **VS Code** | Code development |
+| <img src="https://skillicons.dev/icons?i=jupyter" width="35"/> **Jupyter** | Interactive experimentation |
+| <img src="https://skillicons.dev/icons?i=git" width="35"/> **Git** | Version control |
+| <img src="https://skillicons.dev/icons?i=github" width="35"/> **GitHub** | Code hosting and collaboration |
+
+</div>
 
 ---
 
-## 💡 Learning Outcomes
+## 🎯 Learning Goals
 
-Through these practical implementations, I aim to develop the ability to:
+Through this repository, I aim to:
 
-- Design and implement fundamental data structures.
-- Select appropriate data structures for different problems.
+- Build a strong foundation in computer science fundamentals.
+- Understand the internal working of different data structures.
 - Develop efficient algorithms using Python.
-- Understand memory management and data organization.
-- Analyze algorithmic efficiency and scalability.
-- Apply searching, sorting, and traversal techniques.
-- Build a strong foundation for advanced Computer Science concepts.
+- Improve logical thinking and problem-solving abilities.
+- Analyze and optimize algorithm performance.
+- Prepare for advanced concepts in Artificial Intelligence and Machine Learning.
 
 ---
 
-## 🎓 Academic Information
+## 📈 My Learning Roadmap
 
-| Detail | Information |
-|---|---|
-| Degree Program | BS Artificial Intelligence |
-| Course | Data Structures & Algorithms |
-| Semester | 3rd Semester |
-| Programming Language | Python |
-| University | Aror University of Art, Architecture, Design & Heritage |
+<div align="center">
 
----
+| Stage | Learning Focus | Status |
+|:---:|---|:---:|
+| 01 | Arrays and Linked Lists | 📚 Learning |
+| 02 | Stacks and Queues | 📚 Learning |
+| 03 | Searching and Sorting | 📚 Learning |
+| 04 | Trees and Graphs | 📚 Learning |
+| 05 | Recursion | 📚 Learning |
+| 06 | Algorithm Analysis | 📚 Learning |
 
-## 🚀 My Learning Philosophy
+</div>
 
-> "Great programmers don't just write code; they understand how and why it works."
-
-I believe that mastering programming requires more than memorizing syntax. It requires understanding the logic behind every operation, analyzing different approaches, and continuously improving through practice.
-
-This repository is a record of that process — from fundamental concepts to more advanced algorithmic techniques.
-
-**Learn → Understand → Implement → Analyze → Optimize**
+*This roadmap reflects the topics covered in my coursework; individual lab implementations are added progressively.*
 
 ---
 
-## 🤝 Contributions & Feedback
+## 🎓 Academic Background
 
-This repository is maintained as part of my academic learning journey.
+<div align="center">
 
-I welcome constructive feedback, suggestions, and discussions that can help improve the implementations and documentation.
+**BS Artificial Intelligence**
 
-If you find this repository helpful, consider giving it a ⭐ Star!
+Aror University of Art, Architecture, Design & Heritage
 
----
+**Course:** Data Structures and Algorithms
 
-## 🔗 Connect With Me
+**Semester:** 03
 
-**Muhammad Taha Shaikh**  
-BS Artificial Intelligence Student | Python Developer | AI & Machine Learning Enthusiast
+**Language:** Python
 
-- GitHub: [@Taha-Shaikh7](https://github.com/Taha-Shaikh7)
-- LinkedIn: [Connect with me](https://www.linkedin.com/)
+</div>
 
 ---
 
-<p align="center">
-  <b>Designed with dedication. Implemented with Python. Driven by curiosity.</b>
-  <br><br>
-  ⭐ Happy Coding! ⭐
-</p>
+## 💭 The Developer's Mindset
+
+<div align="center">
+
+### "First, understand the problem. Then, design the logic. Finally, write the code."
+
+<br/>
+
+**LEARN** → **IMPLEMENT** → **ANALYZE** → **OPTIMIZE** → **GROW**
+
+<br/>
+
+Every algorithm teaches a new way of thinking.  
+Every problem is an opportunity to improve.
+
+</div>
+
+---
+
+## 🤝 Feedback & Collaboration
+
+Have suggestions, improvements, or a different approach to an algorithm?
+
+Contributions, constructive feedback, and knowledge-sharing are always welcome.
+
+If you find this repository useful, don't forget to give it a ⭐ **Star**!
+
+---
+
+## 👨‍💻 About the Developer
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MUHAMMAD_TAHA_SHAIKH-Developer-0A66C2?style=for-the-badge" />
+
+### Muhammad Taha Shaikh
+
+**BS Artificial Intelligence Student | Python Developer | AI & ML Enthusiast**
+
+<br/>
+
+<a href="https://github.com/Taha-Shaikh7">
+<img src="https://img.shields.io/badge/GitHub-Taha--Shaikh7-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building the logic today. Engineering intelligent solutions tomorrow.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:005C97,100:00D4FF&height=120&section=footer" width="100%"/>
+
+</div>
