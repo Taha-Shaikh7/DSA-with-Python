@@ -161,10 +161,6 @@ Understanding relationships and connections.
 - Merge Sort
 - Quick Sort
 - Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
-
 </td>
 </tr>
 
@@ -206,45 +202,54 @@ Organized for easy navigation, understanding, and future expansion.
 ```text
 DSA-with-Python/
 │
-├── 📁 Arrays/
+├── Lab-01/
+│   ├── Task-01.py
+│   ├── Task-02.py
+│   └── README.md
 │
-├── 📁 Linked-Lists/
-│   ├── Singly-Linked-List/
-│   ├── Doubly-Linked-List/
-│   └── Circular-Linked-List/
+├── Lab-02/
+│   ├── Task-01.py
+│   ├── Task-02.py
+│   └── README.md
 │
-├── 📁 Stacks/
+├── Lab-03/
+│   ├── Task-01.py
+│   ├── Task-02.py
+│   └── README.md
 │
-├── 📁 Queues/
+├── Lab-04/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-├── 📁 Searching-Algorithms/
-│   ├── Linear-Search/
-│   └── Binary-Search/
+├── Lab-05/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-├── 📁 Sorting-Algorithms/
-│   ├── Bubble-Sort/
-│   ├── Selection-Sort/
-│   ├── Insertion-Sort/
-│   ├── Merge-Sort/
-│   ├── Quick-Sort/
-│   ├── Heap-Sort/
-│   ├── Counting-Sort/
-│   ├── Radix-Sort/
-│   └── Bucket-Sort/
+├── Lab-06/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-├── 📁 Trees/
+├── Lab-07/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-├── 📁 Graphs/
+├── Lab-08/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-├── 📁 Recursion/
+├── Lab-09/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-├── 📁 Algorithm-Analysis/
+├── Lab-10/
+│   ├── Task-01.py
+│   └── Task-02.py
 │
-└── 📄 README.md
+└── README.md
 ```
 
 ---
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35"/>
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -253,7 +258,7 @@ DSA-with-Python/
 |:---:|:---|
 | <img src="https://skillicons.dev/icons?i=python" width="35"/> **Python** | Core programming language |
 | <img src="https://skillicons.dev/icons?i=vscode" width="35"/> **VS Code** | Code development |
-| <img src="https://skillicons.dev/icons?i=jupyter" width="35"/> **Jupyter** | Interactive experimentation |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35"/> **Jupyter Notebook** | Interactive experimentation |
 | <img src="https://skillicons.dev/icons?i=git" width="35"/> **Git** | Version control |
 | <img src="https://skillicons.dev/icons?i=github" width="35"/> **GitHub** | Code hosting and collaboration |
 
@@ -356,7 +361,7 @@ If you find this repository useful, don't forget to give it a ⭐ **Star**!
 <img src="https://img.shields.io/badge/GitHub-Taha--Shaikh7-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/muhammad-taha-82b497355">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
